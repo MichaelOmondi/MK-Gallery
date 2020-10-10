@@ -1,4 +1,5 @@
 venv/
 .env
-start.sh
+env.sh
+.vscode
 pycache_/

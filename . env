@@ -1,0 +1,2 @@
+export SECRET_KEY='*j%n)_7mygwdmp*f801c4=ir=-#3&f8p-kz3k@i^8vmh2z9z62'
+export ALLOWED_HOSTS='*'
