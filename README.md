@@ -81,12 +81,12 @@ Open the application on your browser `127.0.0.1:8000`.
   
   
 ## Known Bugs  
-* There are no known bugs currently but pull requests are allowed incase you spot a bug  
+* There are no known bugs currently in this project 
   
 ## Contact Information   
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]  
+If you have any question or contributions, please email me at [omondimikey11@gmail.com]  
   
 ## License 
 
 * [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
-* Copyright (c) 2019 **Michael Omondi**
+* Copyright (c) 2020 **Michael Omondi**
