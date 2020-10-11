@@ -35,7 +35,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Owiti-Charles/Picture-Globe.git 
+ https://github.com/MichaelOmondi/MK-Gallery
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
