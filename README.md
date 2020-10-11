@@ -4,25 +4,12 @@
 >[MichaelOmondi](https://github.com/MichaelOmondi/MK-Gallery)  
   
 # Description  
-This is a Django application for personal gallery that allows a user to upload images for other to see and be able to to share by coping the image link.
+This is a personal gallery application that displays your photos for others to see, they will also be able to click on the photo to see more delails about the specific picture.
   
 ##  Live Link  
- Click [View Site]()  to visit the site
+ Click []()  to visit the site
   
-## Screenshots 
-###### Home page
- 
-<img src="x-special/nautilus-clipboard
-copy
-file:///home/moringa/Pictures/Screenshot%20from%202020-10-12%2000-09-22.png
-">
- 
- ###### Search results
- <img src="https://raw.githubusercontent.com/Owiti-Charles/Picture-Globe/master/static/images/searchfood.png"> 
 
- ###### Image Details 
- <img src="https://raw.githubusercontent.com/Owiti-Charles/Picture-Globe/master/static/images/modalscrn.png">
- 
 ## User Story  
   
 * View different photos that interest them  
@@ -79,7 +66,7 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Technology used  
   
 * [Python3.6](https://www.python.org/)  
-* [Django 1.11](https://docs.djangoproject.com/en/2.2/)  
+* [Django 3.1.2](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
   
   
@@ -87,9 +74,9 @@ Open the application on your browser `127.0.0.1:8000`.
 * There are no known bugs currently in this project 
   
 ## Contact Information   
-If you have any question or contributions, please email me at [omondimikey11@gmail.com]  
+For any question or querry, please email me at [omondimike11@gmail.com]  
   
 ## License 
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/OmondiMichael/My-Gallery/blob/master/LICENSE)  
 * Copyright (c) 2020 **Michael Omondi**
