@@ -71,6 +71,7 @@ DATABASES = {
             'NAME': 'gallery',
             'USER': 'moringa',
             'PASSWORD':'test',
+            # 'SECRET_KEY': 'mykey',
         }
     }
 
