@@ -56,7 +56,7 @@ python manage.py makemigrations pictures
  ```bash 
  python manage.py server 
 ```
-##### Testing the application  
+##### Testing the application.  
  ```bash 
  python manage.py test 
 ```
