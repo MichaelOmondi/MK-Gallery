@@ -21,7 +21,7 @@ This is a personal gallery application that displays your photos for others to s
 
   
 ## Setup and Installation  
-To get the project .......  
+To get the project ... 
   
 ##### Cloning the repository:  
  ```bash 
