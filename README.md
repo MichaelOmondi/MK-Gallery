@@ -71,7 +71,7 @@ Open the application on your browser `127.0.0.1:8000`.
   
   
 ## Known Bugs  
-* There are no known bugs currently in this project yet
+* There are no known bugs currently in this project yet.
   
 ## Contact Information   
 For any question or querry, please email me at [omondimike11@gmail.com]  
