@@ -2,6 +2,7 @@ import os
 from decouple import config, Csv
 import dj_database_url
 import django_heroku
+from pathlib import Path
 # from dotenv import load_dotenv
 
 # load_dotenv()
@@ -68,7 +69,7 @@ WSGI_APPLICATION = 'pictureshare.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
-            'NAME': 'gallery',
+            'NAME': 'pictureshare',
             'USER': 'moringa',
             'PASSWORD':'test',
             # 'SECRET_KEY': 'mykey',
